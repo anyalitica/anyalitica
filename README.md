@@ -11,9 +11,9 @@
 🦸‍♀️ One of the organisers of [Data + Women Netherlands community](https://usergroups.tableau.com/data-women-amsterdam/)
 <br>
 <br>
-👩‍💻 I have experience with SQL, Python & some JavaScript
+:wrench: Tools I work with: Tableau, Looker, dbt, Snowflake, Google BigQuery, Databricks, Azure Data Factory, and Alteryx (to be continued...)
 <br>
-:wrench: Tools I worked with: Tableau, Looker, dbt, Snowflake, Google BigQuery, Databricks, Azure Data Factory, and Alteryx (to be continued...)
+👩‍💻 I have experience with SQL, Python & JavaScript
 <br>
 🌱 I’m currently learning about ML & MLOps
 <br>
