@@ -1,4 +1,32 @@
-### Hi there 👋
+# 👋 Hi! I'm Anya
+
+> AKA: Anyalitica
+
+[![GitHub followers](https://img.shields.io/github/followers/anyalitica?style=social)](https://github.com/anyalitica) [![Twitter Follow](https://img.shields.io/twitter/follow/anyalitica?style=social)](https://twitter.com/anyalitica)
+
+🚀 Currently a Senior Data Engineer @Aimpoint Digital
+<br>
+🦖 [Tableau Visionary](https://www.tableau.com/blog/announcing-2023-tableau-visionaries) & [Data Dev Ambassador](https://www.tableau.com/tableau-ambassadors#data-dev)
+<br>
+🦸‍♀️ One of the organisers of [Data + Women Netherlands community](https://usergroups.tableau.com/data-women-amsterdam/)
+<br>
+<br>
+:floppy_disk: I have experience with SQL, Python & some JavaScript
+<br>
+:wrench: Tools I worked with: Tableau, Looker, dbt, Snowflake, Google BigQuery, Databricks, Azure Data Factory, and Alteryx (to be continued...)
+<br>
+🌱 I’m currently learning about ML & MLOps
+<br>
+<br>
+💬 Ask me about Tableau API's, data engineering & automation of boring things
+
+
+<!-- Add this to the GitHub stats below to hide some of the stats
+&hide=stars,commits,prs,issues,contribs
+-->
+
+| <a href="https://github.com/anyalitica/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anyalitica&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anyalitica/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anyalitica&layout=compact&theme=default&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <!--
 **anyalitica/anyalitica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
