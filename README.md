@@ -4,7 +4,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/anyalitica?style=social)](https://github.com/anyalitica) [![Twitter Follow](https://img.shields.io/twitter/follow/anyalitica?style=social)](https://twitter.com/anyalitica)
 
-🚀 Currently a Senior Data Engineer @Aimpoint Digital
+🚀 Currently a Lead Data Engineer @Aimpoint Digital
 <br>
 🦖 [Tableau Visionary](https://www.tableau.com/blog/announcing-2023-tableau-visionaries) & [Data Dev Ambassador](https://www.tableau.com/tableau-ambassadors#data-dev)
 <br>
