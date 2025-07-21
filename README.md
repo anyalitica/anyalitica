@@ -4,14 +4,15 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/anyalitica?style=social)](https://github.com/anyalitica) [![Twitter Follow](https://img.shields.io/twitter/follow/anyalitica?style=social)](https://twitter.com/anyalitica)
 
-🚀 Currently a Lead Data Engineer @Aimpoint Digital
+🚀 Data Engineer
 <br>
-🦖 [Tableau Visionary](https://www.tableau.com/blog/announcing-2023-tableau-visionaries) & [Data Dev Ambassador](https://www.tableau.com/tableau-ambassadors#data-dev)
-<br>
+🦖 Former [Tableau Visionary](https://www.tableau.com/blog/announcing-2023-tableau-visionaries) & [Data Dev Ambassador](https://www.tableau.com/tableau-ambassadors#data-dev) (2020 - 2025)
+<!--<br>
 🦸‍♀️ One of the organisers of [Data + Women Netherlands community](https://usergroups.tableau.com/data-women-amsterdam/)
 <br>
+-->
 <br>
-:wrench: Tools I work with: dbt, Snowflake, Databricks, Azure Data Factory, Tableau, Looker... (to be continued...)
+:wrench: Tools I work with: dbt, Snowflake, Azure Data Factory, Tableau, Power BI, Looker... (to be continued...)
 <br>
 👩‍💻 I have experience with SQL, Python & JavaScript
 <br>
