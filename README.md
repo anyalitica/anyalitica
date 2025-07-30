@@ -6,7 +6,7 @@
 
 🚀 Data Engineer
 <br>
-🦖 Former [Tableau Visionary](https://www.tableau.com/blog/announcing-2023-tableau-visionaries) & [Data Dev Ambassador](https://www.tableau.com/tableau-ambassadors#data-dev) (2020 - 2025)
+🦖 [Tableau Visionary](https://www.tableau.com/blog/announcing-2023-tableau-visionaries) & [Data Dev Ambassador](https://www.tableau.com/tableau-ambassadors#data-dev) (2020 - 2025)
 <!--<br>
 🦸‍♀️ One of the organisers of [Data + Women Netherlands community](https://usergroups.tableau.com/data-women-amsterdam/)
 <br>
@@ -16,7 +16,7 @@
 <br>
 👩‍💻 I have experience with SQL, Python & JavaScript
 <br>
-🌱 I’m currently learning about ML & MLOps
+🌱 I’m currently learning about ML & MLOps & p5.js
 <br>
 <br>
 💬 Ask me about Tableau API's, data engineering & automation of boring things
